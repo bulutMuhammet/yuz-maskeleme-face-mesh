@@ -1,0 +1,17 @@
+#dosya içinde terminali aç
+
+#ve şunu yaz
+
+source venv/bin/activate
+
+
+#çalıştırma kodu
+
+python main.py   (sen gözükmezsin) (ipucu: esc ye basarsan çıkarsın ipucu2: space'e basarsan güzel şeyler olur :) )
+
+
+#çalıştırma kodu
+
+python withu.py  (sen de gözükürsün)
+
+
